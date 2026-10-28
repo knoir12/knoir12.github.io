@@ -1,0 +1,9 @@
+@media screen and (min-width: 1024px) {
+  .doc {
+    flex: auto;
+    font-size: var(--doc-font-size--desktop);
+    margin: 0 auto;
+    max-width: 46rem;
+    min-width: 0;
+  }
+}
